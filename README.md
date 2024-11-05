@@ -7,21 +7,21 @@ This is a simple React application that displays a virtual board with fixed stic
 ### 1.Clone the Repository:
 
   ```sh
-  git clone https://github.com/AliDeli80/Tab-Navigation.git
+  git clone https://github.com/AliDeli80/sticky-note.git
   ```
 
 ### 2.Install dependencies:
 
-    ```sh
+  ```sh
     git cd react-sticky-notes
     npm install
-    ```
+  ```
 
 ### 3.Start the development server:
 
-    ```sh
-    npm start
-    ```
+```sh
+  npm start
+```
 
 ### 4.Open your browser:
 

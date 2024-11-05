@@ -13,15 +13,15 @@ This is a simple React application that displays a virtual board with fixed stic
 ### 2.Install dependencies:
 
   ```sh
-    git cd react-sticky-notes
-    npm install
+  git cd react-sticky-notes
+  npm install
   ```
 
 ### 3.Start the development server:
 
-```sh
+  ```sh
   npm start
-```
+  ```
 
 ### 4.Open your browser:
 

@@ -1,10 +1,38 @@
-# Getting Started with Create React App
+# Project Title
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple React application that displays a virtual board with fixed sticky notes.
 
-## Available Scripts
+## Getting Started
 
-In the project directory, you can run:
+### 1.Clone the Repository:
+
+  ```sh
+  git clone https://github.com/AliDeli80/Tab-Navigation.git
+  ```
+
+### 2.Install dependencies:
+
+    ```sh
+    git cd react-sticky-notes
+    npm install
+    ```
+
+### 3.Start the development server:
+
+    ```sh
+    npm start
+    ```
+
+### 4.Open your browser:
+
+ The application will open in your default browser at `http://localhost:3000`.
+
+
+## Technology Stack
+
+- React: A JavaScript library for building user interfaces.
+- CSS: For styling the application.
+- HTML: For structuring the content.
 
 ### `npm start`
 
@@ -39,32 +67,11 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Contributing
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1.  Fork the repository.
+2.  Create a new branch for your feature or bug fix.
+3.  Make your changes.
+4.  Commit your changes with clear commit messages.
+5.  Push your branch to your forked repository.
+6.  Create a pull request to the main repository.

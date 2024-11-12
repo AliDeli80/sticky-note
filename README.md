@@ -2,7 +2,7 @@
 
 sticky-note
 
-##Description
+## Description
 
 This is a simple React application that displays a virtual board with fixed sticky notes.
 

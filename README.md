@@ -4,7 +4,7 @@ sticky-note
 
 ## Description
 
-This is a simple React application that displays a virtual board with fixed sticky notes.
+The "Sticky Note" is a React application that provides a virtual sticky note board.
 
 ## Getting Started
 

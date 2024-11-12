@@ -1,5 +1,9 @@
 # Project Title
 
+sticky-note
+
+##Description
+
 This is a simple React application that displays a virtual board with fixed sticky notes.
 
 ## Getting Started
